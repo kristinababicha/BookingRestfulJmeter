@@ -1,0 +1,4 @@
+firstname,lastname,totalprice,depositpaid,checkin,checkout,additionalneeds
+Kristina,test,123,true,,,Breakfast
+Rainer,test2,234,true,,,Coffee
+Masha,test3,345,true,,,Tea
